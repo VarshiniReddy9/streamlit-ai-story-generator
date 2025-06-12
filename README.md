@@ -34,8 +34,8 @@ Turn any image into a short, creative story using Google's Gemini AI.
 
 Check out the deployed app on Streamlit Cloud:
 
-🔗 [Streamlit AI Story Generator](https://streamlit-ai-story-generator.streamlit.app/)  
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://streamlit-ai-story-generator.streamlit.app/)
+🔗 [Streamlit AI Story Generator](https://streamlit-ai-story-generator.streamlit.app)  
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://streamlit-ai-story-generator.streamlit.app)
 
 ## 📦 Installation & Running Locally
 
