@@ -26,6 +26,16 @@ This interactive app lets you upload a picture and choose a genre—like **Fairy
 - Pillow (image handling)
 
 ---
+# 📖 Streamlit AI Story Generator
+
+Turn any image into a short, creative story using Google's Gemini AI.
+
+## 🚀 Live Demo
+
+Check out the deployed app on Streamlit Cloud:
+
+🔗 [Streamlit AI Story Generator](https://streamlit-ai-story-generator.streamlit.app/)  
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://streamlit-ai-story-generator.streamlit.app/)
 
 ## 📦 Installation & Running Locally
 
